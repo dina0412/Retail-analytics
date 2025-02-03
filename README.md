@@ -30,4 +30,10 @@ The project uses various tables to structure customer-related data:
 ## **How to Use the Dashboard**  
 1. Download the `.pbix` file from this repository.  
 2. Open it in Power BI Desktop.  
-3. Explore interactive reports using filters and slicers.  
+3. Explore interactive reports using filters and slicers.
+
+![image](https://github.com/user-attachments/assets/43095739-c8ea-4fbc-a481-1caaeca1242d)
+![image](https://github.com/user-attachments/assets/d2769bf5-add0-4d75-9905-0edb61233a2a)
+![image](https://github.com/user-attachments/assets/8bdb8424-b4d5-49d2-b379-e579a5b8523d)
+![image](https://github.com/user-attachments/assets/be397de6-25f3-4aaa-ad83-96d5bd538c9b)
+
