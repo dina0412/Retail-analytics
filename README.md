@@ -21,6 +21,12 @@ The project uses various tables to structure customer-related data:
 - **2. Enhance Customer Engagement** 
 - **3. Improve Customer Feedback Scores** 
 
+## **Data Processing Steps**  
+1. **Data Cleaning in SQL**: Structured and cleaned the dataset to remove inconsistencies and missing values.  
+2. **Sentiment Analysis in Python**: Applied NLP techniques using VADER sentiment analysis to categorize customer feedback into sentiment scores and buckets.
+3. **Transformation in Power Query**: Processed and reshaped the data for better analysis in Power BI.  
+4. **Power BI Dashboard Creation**: Designed interactive reports and visualizations to explore key insights.
+
 ## **How to Use the Dashboard**  
 1. Download the `.pbix` file from this repository.  
 2. Open it in Power BI Desktop.  
