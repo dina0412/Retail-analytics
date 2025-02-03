@@ -17,9 +17,9 @@ The project uses various tables to structure customer-related data:
 - **Products Table**: Provides additional information about products.  
 
 ## *Goals*
-**1. Increase Conversion Rates** 
-**2. Enhance Customer Engagement** 
-**3. Improve Customer Feedback Scores** 
+- **1. Increase Conversion Rates** 
+- **2. Enhance Customer Engagement** 
+- **3. Improve Customer Feedback Scores** 
 
 ## **How to Use the Dashboard**  
 1. Download the `.pbix` file from this repository.  
